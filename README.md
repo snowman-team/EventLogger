@@ -8,7 +8,7 @@ Make it easier to collect & analytic data with different third party service.
 ```groovy
 dependencies {
     // add dependency, please replace x.y.z to the latest version
-    implementation "com.xueqiu.eventlogger:logger:x.y.z"
+    implementation "com.xueqiu.eventlogger:eventlogger:x.y.z"
     // if you use umeng analytics
     implementation "com.xueqiu.eventlogger:umeng:x.y.z"
 }
